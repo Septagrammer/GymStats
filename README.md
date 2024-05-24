@@ -38,6 +38,7 @@
 ## BACK
 
 ### Back dumbell pull 
+ * 25kg 3x7
  * 22,5kg 4x10
 
 ### Seated cable pull
