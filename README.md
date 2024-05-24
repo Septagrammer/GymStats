@@ -20,7 +20,7 @@
  * Dropset 60-45kg
 
 ### High bench 
- * 50kg 4x5
+ * 45kg 4x5
 
 ### Triceps pull 
  * 22,5kg 3x10
