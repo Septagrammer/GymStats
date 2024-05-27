@@ -23,6 +23,7 @@
  * 45kg 4x5
 
 ### Triceps pull 
+ * 20kg 3x8
  * 22,5kg 3x10
 
 ### Dumbbell press
