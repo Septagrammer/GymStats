@@ -14,6 +14,7 @@
 
 ### Chest high hammer 
  * 45kg 3x5 
+ * Dropset 50-35kg
 
 ### Chest butterfly
  * 60kg 5x5
