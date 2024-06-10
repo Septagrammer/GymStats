@@ -8,6 +8,7 @@
 
 ### Spider curls
  * 7,5kg 4x8
+ * Dropset 12,5-7,5kg
 
 
 ## CHEST
