@@ -23,6 +23,7 @@
 
 ### High bench 
  * 45kg 4x5
+ * 52,5kg 4x3
 
 ### Triceps pull 
  * 20kg 3x8
