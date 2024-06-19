@@ -23,7 +23,7 @@
 
 ### High bench 
  * 45kg 4x5
- * 52,5kg 4x3
+ * 55kg 4x3
 
 ### Triceps pull 
  * 20kg 3x8
@@ -52,7 +52,7 @@
 ### Lats pulldown
  * 40kg 3x12
  * 50kg 4x8
- * 55kg 2x6
+ * 60kg 2x6
 
 
 ## ABS
