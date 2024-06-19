@@ -13,6 +13,10 @@
 
 ## CHEST
 
+### CHEST HAMMER
+ * 60kg 4x5
+ * 70kg 4x5
+
 ### Chest high hammer 
  * 45kg 3x5 
  * Dropset 50-35kg
