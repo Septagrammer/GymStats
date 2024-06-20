@@ -13,7 +13,7 @@
 
 ## CHEST
 
-### CHEST HAMMER
+### Chest hammer
  * 60kg 4x5
  * 70kg 4x5
 
@@ -78,3 +78,6 @@
  * 1km 5.0km/h
  * 1,5km 5.0km/h
  * 2km 4,5km/h
+
+### Stepper
+ * 15min x2
