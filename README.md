@@ -68,7 +68,10 @@
 # SHOULDERS
 
 ### Dumbbell press
- * 12,5kg 3x10
+ * 15kg 4x6
+
+### Dumbell lateral raises
+ * 10kg 3x5
 
 
 ## CARDIO
