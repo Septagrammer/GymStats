@@ -54,9 +54,8 @@
  * 45kg 4x8
 
 ### Lats pulldown
- * 40kg 3x12
  * 50kg 4x8
- * 60kg 2x6
+ * 60kg 3x6
 
 
 ## ABS
