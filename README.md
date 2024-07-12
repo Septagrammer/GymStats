@@ -14,8 +14,8 @@
 ## CHEST
 
 ### Chest hammer
- * 60kg 4x5
- * 70kg 4x5
+ * 65kg 4x5
+ * 75kg 4x5
 
 ### Chest high hammer 
  * 45kg 3x5 
@@ -72,6 +72,9 @@
 
 ### Dumbell lateral raises
  * 10kg 3x5
+
+### Lateral raises machine
+ * 40kg 4x6
 
 
 ## CARDIO
